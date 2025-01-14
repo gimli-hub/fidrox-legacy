@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = git@github.com:FidroxAI/core.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:FidroxAI/backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Fidroxai/frontend.git
